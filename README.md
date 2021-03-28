@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Aleksandr Siryi
+
+#### I'm a javascript developer
 
 <!--
 **theobroma/theobroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left" id="theobroma-title">:wave: Hello there! I'm Aleksandr Siryi</h1>
-<h3 align="left">I'm a javascript developer</h3>
+<!-- <h3 align="left">I'm a javascript developer</h3> -->
 
-<p align="left">
+### Quick stats about me
+
+| Github Stats                                                                                                                                                                                     | Top Languages                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Sasha's github stats](https://github-readme-stats.vercel.app/api?username=theobroma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sasha's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theobroma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+<!-- <p align="left">
   <a href="https://github.com/theobroma/theobroma">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
   </a>
@@ -36,18 +43,18 @@ Here are some ideas to get you started:
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
-</p>
+</p> -->
 
-<a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
-</a>
+<!-- <a href="#theobroma-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=theobroma&show_icons=true&count_private=true&include_all_commits=true" alt="theobroma" align="right" />
+</a> -->
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
+<!-- - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br>
+<br> -->
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<!-- <h2 align="left" id="macropower-tech">Favorite Tech</h2> -->
