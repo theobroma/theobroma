@@ -9,7 +9,6 @@
   <a href="https://t.me/theobroma222"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
@@ -22,6 +21,7 @@
 ### Technologies
 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) -->
+
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
