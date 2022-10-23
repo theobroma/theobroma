@@ -7,7 +7,7 @@
   <a href="https://t.me/theobroma222"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### My stack and tools
+### Stack and tools
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -46,3 +46,11 @@
 | ![Sasha's github stats](https://github-readme-stats.vercel.app/api?username=theobroma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sasha's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theobroma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 </details>
+
+## My works
+
+-   [MovieDB](https://github.com/theobroma/movie-app)
+-   [Cryptoverse](https://github.com/theobroma/cryptoverse-mui-v5)
+-   [PixaBay Image Finder](https://github.com/theobroma/pixabay-hooks-images)
+-   [Weather App (React18)](https://github.com/theobroma/weather-app-latest)
+-   [Weather App (React17)](https://github.com/theobroma/weather-app)
