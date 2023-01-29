@@ -47,11 +47,11 @@
 
 </details>
 
-## My works
+## Personal Projects 🚀
 
--   [MovieDB(MUIv4,React17)](https://github.com/theobroma/movie-app)
--   [MovieDB](https://github.com/theobroma/movie-app-latest)
--   [Cryptoverse](https://github.com/theobroma/cryptoverse-mui-v5)
--   [PixaBay Image Finder](https://github.com/theobroma/pixabay-hooks-images)
--   [Weather App (React18)](https://github.com/theobroma/weather-app-latest)
--   [Weather App (MUIv4,React17)](https://github.com/theobroma/weather-app)
+-   🎯 [MovieDB](https://github.com/theobroma/movie-app),legacy.
+-   🧼 [MovieDB](https://github.com/theobroma/movie-app-latest)
+-   💰 [Cryptoverse](https://github.com/theobroma/cryptoverse-mui-v5)
+-   🌳 [PixaBay Image Finder](https://github.com/theobroma/pixabay-hooks-images),legacy.
+-   🌟 [Weather App](https://github.com/theobroma/weather-app-latest)
+-   ✨ [Weather App](https://github.com/theobroma/weather-app),legacy.
