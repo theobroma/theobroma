@@ -52,6 +52,7 @@
 -   🎯 [MovieDB](https://github.com/theobroma/movie-app),legacy.
 -   🧼 [MovieDB](https://github.com/theobroma/movie-app-latest)
 -   💰 [Cryptoverse](https://github.com/theobroma/cryptoverse-mui-v5)
+-   ![binance-coin](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/binance-coin.png) [Cryptoverse Vite](https://github.com/theobroma/cryptoverse-vite)
 -   🌳 [PixaBay Image Finder](https://github.com/theobroma/pixabay-hooks-images),legacy.
 -   🌟 [Weather App](https://github.com/theobroma/weather-app-latest)
 -   ✨ [Weather App](https://github.com/theobroma/weather-app),legacy.
