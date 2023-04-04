@@ -56,3 +56,8 @@
 -   🌳 [PixaBay Image Finder](https://github.com/theobroma/pixabay-hooks-images),legacy.
 -   🌟 [Weather App](https://github.com/theobroma/weather-app-latest)
 -   ✨ [Weather App](https://github.com/theobroma/weather-app),legacy.
+
+## Tutorials :flashlight:
+
+-   :orange_book: [Forms tutorials](https://github.com/theobroma/forms-tutorials)
+-   :lollipop: [TodoMVC tutorials](https://github.com/theobroma/todomvc-tutorials)
