@@ -16,9 +16,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github)](https://skillicons.dev)
 
+### Mobile development
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,aws)](https://skillicons.dev)
+
 ### Web development
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,styledcomponents,vite)](https://skillicons.dev)
 
 <details>
 <summary>⚡️ Show stats</summary>
