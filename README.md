@@ -1,12 +1,12 @@
 𝑰 ❤️ MVP 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-## 📫 How to reach me
+<!-- ## 📫 How to reach me
 
 <p>
   <a target="_blank"href="http://www.linkedin.com/in/olexandr-siryj-39852a99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:theobroma222@gmail.com?subject=Hello%20Aleksandr,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/theobroma222"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 ### Languages
 
